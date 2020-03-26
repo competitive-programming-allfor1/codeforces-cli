@@ -1,6 +1,10 @@
+attrs==19.3.0
 beautifulsoup4==4.8.2
+boltons==20.0.0
 certifi==2019.11.28
 chardet==3.0.4
+face==20.1.1
+glom==19.10.0
 idna==2.9
 requests==2.23.0
 soupsieve==2.0
